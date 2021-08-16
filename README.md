@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashu2002
 - 👀 I’m interested in ... learning new things
 - 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...mncs
+- 💞️ I’m looking to collob to learn.....
 - 📫 How to reach me ... jangamyashwanthraju@gmail.com
 
 <!---
